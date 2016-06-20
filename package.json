@@ -1,0 +1,16 @@
+{
+  "name": "timestamp-ms",
+  "version": "1.0.0",
+  "description": "FCC Project. Timestamp microservice.",
+  "main": "./app/app.js",
+  "scripts": {
+    "start": "node ./app/app.js"
+  },
+  "author": [
+    "Patrick San Juan <psj.webdev@gmail.com>"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
